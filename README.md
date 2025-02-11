@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Senior Software Engineer  
+## 💻 Senior Software Engineer  
 Senior Software Engineer with **10+ years** of experience, including **5+ years** in full-stack web development. Proven expertise in delivering scalable solutions using PHP frameworks, modern JavaScript tools, and automation. Passionate about driving efficiency through streamlined workflows, code quality, and mentoring teams.  
 
 ---
