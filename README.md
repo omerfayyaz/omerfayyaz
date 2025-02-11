@@ -79,18 +79,6 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 
 ---
 
-## 📜 Certifications  
-- **AWS Certified Developer – Associate** (Amazon Web Services, 2020)  
-- **Certified Laravel Developer** (Laravel Certification Program, 2021)  
-
----
-
-## 🎓 Education  
-**Bachelor of Science in Computer Science**  
-*University of Lahore* | Graduated: 2012  
-
----
-
 ## 🌐 Languages  
 - **English**: Professional Proficiency  
 - **Urdu**: Native  
