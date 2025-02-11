@@ -63,19 +63,19 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 
 ### **MMF-Finance**  
 **[Live Demo](https://mmf-finance.idfusion.com/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- A comprehensive web application designed for event finance and claims management, streamlining the process of tracking financial transactions and managing claims. Built with a user-friendly interface, it enables efficient budgeting, expense monitoring, and claims processing for event organizers, ensuring transparency and accuracy in financial operations.  
+- Web app for event finance & claims management. It streamlines budgeting, expense tracking, and claims processing for transparent, accurate finances.  
 
 ### **Telaeris (XP Track)**  
 **[Live Demo](https://telaeris.com/)** | *Tech Stack: Laravel, JWT Auth, Cron Jobs*  
-- Telaeris (XP Track) is a US-based software company, specializing in handheld and hands-free safety and physical security solutions to enhance access control and occupancy tracking systems. Telaeris’ XPressEntry is a hardware and software solution that seamlessly integrates with any industry-leading access control system, providing fixed, kiosk, and handheld devices capable of reading any badge technology, biometrics, and facial.  
+- Telaeris (XP Track) delivers handheld & hands-free safety & security solutions. XPressEntry integrates with any leading access control system.  
 
 ### **Vividsol Hosting**  
 **[Live Demo](https://vividsol.com/)** | *Tech Stack: Core PHP, Cron Jobs, Bootstrap*  
-- A robust platform for hosting and domain reselling, offering seamless management of domain registrations, hosting services, and customer accounts. With an intuitive interface, it allows resellers to efficiently handle purchases, renewals, and customer support, providing a streamlined experience for both resellers and their clients.  
+- Robust platform for hosting & domain reselling. Seamlessly manage registrations, hosting services & support with an intuitive reseller interface.  
 
 ### **Grey House Hostel**  
 **[Live Demo](https://greyhouse.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- A robust web application for hostel management, facilitating efficient administration of student accommodations. It features modules for room allocation, fee management, maintenance requests, and resident records. The user-friendly interface ensures streamlined operations, enhancing the overall experience for both administrators and residents.  
+- Robust hostel management web app for room allocation, fee tracking, maintenance requests & resident records, streamlining admin & user experience.  
 
 ---
 
