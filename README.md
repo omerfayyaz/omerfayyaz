@@ -36,7 +36,7 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 | **Category**       | **Skills**                                                                 |  
 |---------------------|---------------------------------------------------------------------------|  
 | **Frontend**        | Vue.js, JavaScript, jQuery, Bootstrap, Tailwind                         |  
-| **Backend**         | Laravel, CakePHP, CodeIgniter, Core PHP, RESTful APIs                    |  
+| **Backend**         | Laravel, Core PHP, CakePHP, CodeIgniter, Core PHP, RESTful APIs                    |  
 | **Databases**       | MySQL, Firebase                                                          |    
 | **Version Control**    | GitHub, Bitbucket                      |  
 | **Tools/DevOps**    | Jira, Trello, ClickUp, Cron Jobs, JWT Auth                      |  
