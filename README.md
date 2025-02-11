@@ -1,5 +1,5 @@
 # Muhammad Omer Fayyaz  
-📍 Lahore, Pakistan | 📧 www.omerfayyaz.com | 📧 omerfayyaz.engr@gmail.com | 📞 +92-324-4072511  
+📍 Lahore, Pakistan | 🌐 [omerfayyaz.com](https://omerfayyaz.com/) | 📧 omerfayyaz.engr@gmail.com | 📞 +92-324-4072511  
 
 ---
 
