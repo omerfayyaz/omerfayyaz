@@ -14,9 +14,9 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 ### **Senior Software Engineer**  
 *Al-Burraq Technologies* *(Feb 2022 – Present)*  
 - Led cross-functional teams to design and deploy **15+ industry-specific software solutions** using Laravel, CodeIgniter, and CakePHP.  
-- Reduced project delivery time by **20%** by optimizing workflows with Jira, Trello, and ClickUp.  
-- Enforced coding standards, cutting code-related issues by **15%** and improving maintainability.  
-- Mentored **4 junior developers**, enhancing team output and adherence to best practices.  
+- Reduced project delivery time by optimizing workflows with Jira, Trello, and ClickUp.  
+- Enforced coding standards, cutting code-related issues and improving maintainability.  
+- Mentored junior developers, enhancing team output and adherence to best practices.  
 
 ### **Software Engineer**  
 *Vividsol Web Services* *(Mar 2019 – Jan 2022)*  
