@@ -20,15 +20,15 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 
 ### **Software Engineer**  
 *Vividsol Web Services* *(Mar 2019 – Jan 2022)*  
-- Built **SaaS applications** in Laravel, boosting client operational efficiency by **25%**.  
-- Developed a domain/hosting reseller platform (Core PHP) that increased sales by **30%** through UX improvements.  
-- Customized WordPress plugins with Core PHP, reducing client-reported bugs by **40%**.  
+- Built **SaaS applications** in Laravel, boosting client operational efficiency.  
+- Integrarted a domain/hosting reseller platform (Core PHP) that increased sales and refined onboarding process.  
+- Customized WordPress plugins with Core PHP, reducing client-reported bugs.  
 
 ### **Executive Engineer**  
 *Siemens Pakistan* *(Jan 2013 – Feb 2019)*  
-- Automated **10+ industrial processes** using PLCs, Arduino, and Python, reducing manual intervention by **40%**.  
-- Created real-time machine data dashboards (PHP/JS), improving decision-making speed by **35%**.  
-- Deployed PLC-based servers, cutting system downtime by **20%**.  
+- Automated **100+ industrial processes** using PLCs, Arduino, reducing manual intervention and increasing productivity.  
+- Created real-time machine data dashboards (PHP/JS), improving decision-making speed.  
+- Deployed PLC-based servers, cutting system downtime.  
 
 ---
 
@@ -37,8 +37,9 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 |---------------------|---------------------------------------------------------------------------|  
 | **Frontend**        | Vue.js, JavaScript, jQuery, Bootstrap, Tailwind                         |  
 | **Backend**         | Laravel, CakePHP, CodeIgniter, Core PHP, RESTful APIs                    |  
-| **Databases**       | MySQL, Firebase                                                          |  
-| **Tools/DevOps**    | GitHub, Jira, Trello, ClickUp, Cron Jobs, JWT Auth                      |  
+| **Databases**       | MySQL, Firebase                                                          |    
+| **Version Control**    | GitHub, Bitbucket                      |  
+| **Tools/DevOps**    | Jira, Trello, ClickUp, Cron Jobs, JWT Auth                      |  
 | **Automation**      | PLC Programming (LAD/STL), Arduino, Python, Assembly Language           |  
 
 ---
