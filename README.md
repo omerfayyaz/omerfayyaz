@@ -1,6 +1,6 @@
 # Muhammad Omer Fayyaz  
 **Senior Software Engineer**  
-📍 Lahore, Pakistan | 📧 omerfayyaz.engr@gmail.com | 📞 +92-324-4072511  
+📍 Lahore, Pakistan | 📧 www.omerfayyaz.com | 📧 omerfayyaz.engr@gmail.com | 📞 +92-324-4072511  
 
 ---
 
