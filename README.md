@@ -45,30 +45,37 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 
 ## 🔥 Key Projects  
 
+### **AllCalls.io**  
+**[Live Demo](https://allcalls.io/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
+- Allcalls revolutionizes the insurance industry by connecting independent agents with warm, inbound consumer calls using cutting-edge technology. They streamline sales through innovative, data-driven solutions that simplify the process and enhance customer experience.  
+
+### **Launchlancer (SAAS)**  
+**[Live Demo](https://launchlancer.com/)** | *Tech Stack: Laravel, jQuery, MySQL, Bootstrap*  
+- It is a SaaS platform that offers a one-click e-commerce store setup, making it easy to launch an online store. Enjoy a selection of ready-made themes and advanced analytics to optimize your store's performance.  
+
 ### **Neuro Force One**  
 **[Live Demo](https://nf1.app/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
-- Sports performance app for elite athletes, adopted by **5,000+ users** in its first year.  
-- Increased user retention by **25%** via data-driven UI/UX enhancements.  
+- The NF1 app, developed by NeuroForce1, leverages individualized, data-driven methods pioneered with elite athletes. It aims to extend their successful sports performance approach to the general population, offering a tool for peak physical performance based on advanced technology and sports.  
 
 ### **TrueTalent Online**  
 **[Live Demo](https://truetalent.online/)** | *Tech Stack: Laravel, Vue.js, MySQL*  
-- On-demand IT staffing platform that reduced client onboarding time by **50%**.  
+- TrueTalent Online is an augmentation provider specializing in software development and IT services. It helps in hiring dedicated resources available on demand, making the client experience seamless and swift .  
 
 ### **MMF-Finance**  
 **[Live Demo](https://mmf-finance.idfusion.com/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- Financial management tool for event organizers, processing **$1M+ in transactions** monthly.  
+- A comprehensive web application designed for event finance and claims management, streamlining the process of tracking financial transactions and managing claims. Built with a user-friendly interface, it enables efficient budgeting, expense monitoring, and claims processing for event organizers, ensuring transparency and accuracy in financial operations.  
 
 ### **Telaeris (XP Track)**  
 **[Live Demo](https://telaeris.com/)** | *Tech Stack: Laravel, JWT Auth, Cron Jobs*  
-- Security/access control system integrated with **10+ biometric/facial recognition tools**.  
+- Telaeris (XP Track) is a US-based software company, specializing in handheld and hands-free safety and physical security solutions to enhance access control and occupancy tracking systems. Telaeris’ XPressEntry is a hardware and software solution that seamlessly integrates with any industry-leading access control system, providing fixed, kiosk, and handheld devices capable of reading any badge technology, biometrics, and facial.  
 
 ### **Vividsol Hosting**  
 **[Live Demo](https://vividsol.com/)** | *Tech Stack: Core PHP, Cron Jobs, Bootstrap*  
-- Hosting reseller platform managing **500+ domains** with 99.9% uptime.  
+- A robust platform for hosting and domain reselling, offering seamless management of domain registrations, hosting services, and customer accounts. With an intuitive interface, it allows resellers to efficiently handle purchases, renewals, and customer support, providing a streamlined experience for both resellers and their clients.  
 
 ### **Grey House Hostel**  
 **[Live Demo](https://greyhouse.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- Reduced administrative workload by **30%** via automated room/fee management.  
+- A robust web application for hostel management, facilitating efficient administration of student accommodations. It features modules for room allocation, fee management, maintenance requests, and resident records. The user-friendly interface ensures streamlined operations, enhancing the overall experience for both administrators and residents.  
 
 ---
 
