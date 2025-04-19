@@ -20,7 +20,7 @@ Senior Software Engineer with **10+ years** of experience, including **5+ years*
 ### **Software Engineer**  
 *Vividsol Web Services* *(Mar 2019 – Jan 2022)*  
 - Built **SaaS applications** in Laravel, boosting client operational efficiency.  
-- Integrarted a domain/hosting reseller platform (Core PHP) that increased sales and refined onboarding process.  
+- Integrated a domain/hosting reseller platform (Core PHP) that increased sales and refined onboarding process.  
 - Customized WordPress plugins with Core PHP, reducing client-reported bugs.  
 
 ### **Executive Engineer**  
