@@ -75,7 +75,11 @@ Senior Software Engineer with **10+ years** of experience, including **6+ years*
 
 ### **Grey House Hostel**  
 **[Live Demo](https://greyhouse.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- Robust hostel management web app for room allocation, fee tracking, maintenance requests & resident records, streamlining admin & user experience.  
+- Robust hostel management web app for room allocation, fee tracking, maintenance requests & resident records, streamlining admin & user experience.
+
+### **Tax Calculator**  
+**[Live Demo](https://taxcalculator.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
+- A Web application to calculate the real time Tax amounts based on the income and other Govt. tax types.  
 
 ---
 
