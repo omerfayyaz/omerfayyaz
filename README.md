@@ -45,6 +45,10 @@ Senior Software Engineer with **10+ years** of experience, including **6+ years*
 
 ## 🔥 Key Projects  
 
+### **ItFits.app**  
+**[Live Demo](https://itfits.app/)** | *Tech Stack: Laravel, Rest Apis, Blade, MySQL, Bootstrap*  
+- App for Nutrition & Fitness Tracking. Achieve your goals with the ultimate app for food, fitness, and progress tracking.
+
 ### **AllCalls.io**  
 **[Live Demo](https://allcalls.io/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
 - Allcalls revolutionizes the insurance industry by connecting independent agents with warm, inbound consumer calls using cutting-edge technology.  
