@@ -53,17 +53,9 @@ Senior Software Engineer with **10+ years** of experience, including **6+ years*
 **[Live Demo](https://allcalls.io/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
 - Allcalls revolutionizes the insurance industry by connecting independent agents with warm, inbound consumer calls using cutting-edge technology.  
 
-### **Launchlancer (SAAS)**  
-**[Live Demo](https://launchlancer.com/)** | *Tech Stack: Laravel, jQuery, MySQL, Bootstrap*  
-- A SaaS platform enabling one-click e-commerce store setup to launch your online store, with ready-made themes and advanced analytics.  
-
 ### **Neuro Force One**  
 **[Live Demo](https://nf1.app/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
 - NF1 app by NeuroForce1 adapts elite, data-driven sports methods to boost peak physical performance for everyone using advanced tech.  
-
-### **TrueTalent Online**  
-**[Live Demo](https://truetalent.online/)** | *Tech Stack: Laravel, Vue.js, MySQL*  
-- TrueTalent Online augments IT and software development teams with on-demand dedicated resources for a seamless, swift client experience.  
 
 ### **MMF-Finance**  
 **[Live Demo](https://mmf-finance.idfusion.com/)** | *Tech Stack: Laravel, jQuery, MySQL*  
