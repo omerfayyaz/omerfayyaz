@@ -14,6 +14,8 @@ Senior Software Engineer with **12+ years** of experience in Web Application dev
 *Full Time Freelancer* *(Jan 2024 – Present)*
 Working as a full time Freelance Engineer on various projects and delivering Full Stack software
 solutions to clients worldwide.
+Working as a full time Freelance Engineer on various projects and delivering Full Stack software
+solutions to clients worldwide.
 
 ### **Senior Software Engineer**  
 *Al-Burraq Technologies* *(Feb 2019 – Dec 2023)*  
