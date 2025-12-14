@@ -4,38 +4,39 @@
 ---
 
 ## 💻 Senior Software Engineer  
-Senior Software Engineer with **10+ years** of experience, including **6+ years** in full-stack web development. Proven expertise in delivering scalable solutions using PHP frameworks, modern JavaScript tools, and automation. Passionate about driving efficiency through streamlined workflows, code quality, and mentoring teams.  
+Senior Software Engineer with **12+ years** of experience in Web Application development. Proven expertise in delivering scalable solutions using PHP frameworks, modern JavaScript tools, and automation. Passionate about driving efficiency through streamlined workflows, code quality, and mentoring teams.  
 
 ---
 
 ## 💼 Professional Experience  
 
+### **Senior Software Engineer**
+*Full Time Freelancer* *(Jan 2024 – Present)*
+Working as a full time Freelance Engineer on various projects and delivering Full Stack software
+solutions to clients worldwide.
+
 ### **Senior Software Engineer**  
-*Al-Burraq Technologies* *(Feb 2022 – Present)*  
-- Led cross-functional teams to design and deploy **15+ industry-specific software solutions** using Laravel, CodeIgniter, and CakePHP.  
-- Reduced project delivery time by optimizing workflows with Jira, Trello, and ClickUp.  
-- Enforced coding standards, cutting code-related issues and improving maintainability.  
-- Mentored junior developers, enhancing team output and adherence to best practices.  
+*Al-Burraq Technologies* *(Feb 2019 – Dec 2023)*  
+Led cross-functional teams in the conceptualization, design, and development of software solutions
+across diverse industries, leveraging PHP frameworks such as Laravel, CodeIgniter, and CakePHP.
+Skilled in using project management tools like Jira, Trello, and ClickUp to optimize workflows and
+ensure efficient project delivery.
+Instrumental in establishing and maintaining coding standards, ensuring the delivery of high-quality,
+scalable solutions aligned with organizational goals. 
 
 ### **Software Engineer**  
-*Vividsol Web Services* *(Mar 2019 – Jan 2022)*  
-- Built **SaaS applications** in Laravel, boosting client operational efficiency.  
-- Integrated a domain/hosting reseller platform (Core PHP) that increased sales and refined onboarding process.  
-- Customized WordPress plugins with Core PHP, reducing client-reported bugs.  
-
-### **Executive Engineer**  
-*Siemens Pakistan* *(Jan 2013 – Feb 2019)*  
-- Automated **100+ industrial processes** using PLCs, Arduino, reducing manual intervention and increasing productivity.  
-- Created real-time machine data dashboards (PHP/JS), improving decision-making speed.  
-- Deployed PLC-based servers, cutting system downtime.  
+*Vividsol Web Services* *(Feb 2013 – Jan 2019)*  
+Built Web Applications using Laravel, Core PHP, CakePHP, and CodeIgniter, enhancing client
+operational efficiency. Integrated a domain and hosting reseller platform in Core PHP that boosted
+sales and streamlined the onboarding process.  
 
 ---
 
 ## 🛠️ Technical Skills  
 | **Category**       | **Skills**                                                                 |  
 |---------------------|---------------------------------------------------------------------------|  
-| **Frontend**        | Vue.js, JavaScript, jQuery, Bootstrap, Tailwind                         |  
 | **Backend**         | Laravel, Core PHP, CakePHP, CodeIgniter, Core PHP, RESTful APIs                    |  
+| **Frontend**        | Vue.js, JavaScript, jQuery, Bootstrap, Tailwind                         |  
 | **Databases**       | MySQL, Firebase                                                          |    
 | **Version Control**    | GitHub, Bitbucket                      |  
 | **Tools/DevOps**    | Jira, Trello, ClickUp, Cron Jobs, JWT Auth                      |  
