@@ -12,23 +12,21 @@ Senior Software Engineer with **12+ years** of experience in Web Application dev
 
 ### **Senior Software Engineer**
 *Full Time Freelancer* *(Jan 2024 – Present)*
-Working as a full time Freelance Engineer on various projects and delivering Full Stack software
-solutions to clients worldwide.
-Working as a full time Freelance Engineer on various projects and delivering Full Stack software
+- Working as a full time Freelance Engineer on various projects and delivering Full Stack software
 solutions to clients worldwide.
 
 ### **Senior Software Engineer**  
 *Al-Burraq Technologies* *(Feb 2019 – Dec 2023)*  
-Led cross-functional teams in the conceptualization, design, and development of software solutions
+- Led cross-functional teams in the conceptualization, design, and development of software solutions
 across diverse industries, leveraging PHP frameworks such as Laravel, CodeIgniter, and CakePHP.
 Skilled in using project management tools like Jira, Trello, and ClickUp to optimize workflows and
 ensure efficient project delivery.
-Instrumental in establishing and maintaining coding standards, ensuring the delivery of high-quality,
+- Instrumental in establishing and maintaining coding standards, ensuring the delivery of high-quality,
 scalable solutions aligned with organizational goals. 
 
 ### **Software Engineer**  
 *Vividsol Web Services* *(Feb 2013 – Jan 2019)*  
-Built Web Applications using Laravel, Core PHP, CakePHP, and CodeIgniter, enhancing client
+- Built Web Applications using Laravel, Core PHP, CakePHP, and CodeIgniter, enhancing client
 operational efficiency. Integrated a domain and hosting reseller platform in Core PHP that boosted
 sales and streamlined the onboarding process.  
 
