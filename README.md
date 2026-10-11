@@ -37,7 +37,7 @@ My career began in industrial automation at **Siemens**, working on PLC programm
 
 ## 💼 Experience
 
-**Technical Lead, Web Applications & AI Automation** · *VividSol Web Services* · Mar 2019 – Present
+**Technical Lead, Web Applications & AI Automation** · *VividSol Web Services* · Jul 2025 – Present
 - Leading the architecture and development of Laravel and Vue.js web applications
 - Driving AI automation and agentic AI initiatives
 - Designing and optimizing production workflows in n8n
