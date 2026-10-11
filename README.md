@@ -1,81 +1,117 @@
-# Muhammad Omer Fayyaz  
-📍 Lahore, Pakistan | 🌐 [omerfayyaz.com](https://omerfayyaz.com/) | 📧 omerfayyaz.engr@gmail.com | 📞 +92-324-4072511  
+# Hi, I'm Omer Fayyaz 👋
+
+**Full-Stack Web Engineer & AI Automation Architect** · Co-Founder & CTO, VividSol · Verified n8n Creator
+
+📍 Lahore, Pakistan · 🌐 [omerfayyaz.com](https://omerfayyaz.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/omerfayyaz-engr/) · ⚡ [n8n Creator Profile](https://n8n.io/creators/omerfayyaz/) · 📧 [omer.fayyaz@vividsol.com](mailto:omer.fayyaz@vividsol.com)
+
+I design and build scalable, full-stack web applications with **Laravel**, from SaaS platforms and dashboards to APIs and client portals. Then I connect them to the rest of the business through **n8n workflows and agentic AI**, backed by **13+ years of engineering experience**.
+
+My career began in industrial automation at **Siemens**, working on PLC programming, SCADA systems, and power infrastructure, where reliability and precision were non-negotiable. That discipline still shapes how I build software: clear architecture, careful testing, and systems that keep running.
+
+> Great software is not about the tools. It is about sound architecture, reliable delivery, and automation that removes real work.
 
 ---
 
-## 💻 Senior Software Engineer  
-Senior Software Engineer with **12+ years** of experience in Web Application development. Proven expertise in delivering scalable solutions using PHP frameworks, modern JavaScript tools, and automation. Passionate about driving efficiency through streamlined workflows, code quality, and mentoring teams.  
+## 🧭 Core Expertise
+
+- Full-Stack Web Development with Laravel, Vue.js & React
+- Scalable Backend Architecture & RESTful APIs
+- AI Automation & Agentic Workflow Design
+- n8n Workflow Architecture & Integrations
+- Industrial Automation & Systems Engineering
 
 ---
 
-## 💼 Professional Experience  
+## 🛠️ Tech Stack
 
-### **Senior Software Engineer**
-*Full Time Freelancer* *(Jan 2024 – Present)*
-- Working as a full time Freelance Engineer on various projects and delivering Full Stack software
-solutions to clients worldwide.
-
-### **Senior Software Engineer**  
-*Al-Burraq Technologies* *(Feb 2019 – Dec 2023)*  
-- Led cross-functional teams in the conceptualization, design, and development of software solutions
-across diverse industries, leveraging PHP frameworks such as Laravel, CodeIgniter, and CakePHP.
-Skilled in using project management tools like Jira, Trello, and ClickUp to optimize workflows and
-ensure efficient project delivery.
-- Instrumental in establishing and maintaining coding standards, ensuring the delivery of high-quality,
-scalable solutions aligned with organizational goals. 
-
-### **Software Engineer**  
-*Vividsol Web Services* *(Feb 2013 – Jan 2019)*  
-- Built Web Applications using Laravel, Core PHP, CakePHP, and CodeIgniter, enhancing client
-operational efficiency. Integrated a domain and hosting reseller platform in Core PHP that boosted
-sales and streamlined the onboarding process.  
+| **Area**              | **Tools**                                                        |
+|-----------------------|------------------------------------------------------------------|
+| **Backend**           | Laravel, PHP, RESTful APIs, Livewire                             |
+| **Frontend**          | Vue.js, React, Next.js, JavaScript, Tailwind CSS                 |
+| **Databases**         | MySQL                                                            |
+| **AI & Automation**   | n8n, Agentic AI workflows, OpenAI, Google Gemini, DeepSeek       |
+| **Integrations**      | Payment gateways, WHMCS, Calendly, Slack, Google Workspace APIs  |
+| **Industrial**        | PLC Programming, SCADA, HT/LT power systems                      |
 
 ---
 
-## 🛠️ Technical Skills  
-| **Category**       | **Skills**                                                                 |  
-|---------------------|---------------------------------------------------------------------------|  
-| **Backend**         | Laravel, Core PHP, CakePHP, CodeIgniter, Core PHP, RESTful APIs                    |  
-| **Frontend**        | Vue.js, JavaScript, jQuery, Bootstrap, Tailwind                         |  
-| **Databases**       | MySQL, Firebase                                                          |    
-| **Version Control**    | GitHub, Bitbucket                      |  
-| **Tools/DevOps**    | Jira, Trello, ClickUp, Cron Jobs, JWT Auth                      |  
-| **Automation**      | PLC Programming (LAD/STL), Arduino, Python, Assembly Language           |  
+## 💼 Experience
+
+**Technical Lead, Web Applications & AI Automation** · *VividSol Web Services* · Mar 2019 – Present
+- Leading the architecture and development of Laravel and Vue.js web applications
+- Driving AI automation and agentic AI initiatives
+- Designing and optimizing production workflows in n8n
+
+**Senior Full-Stack Laravel Developer & Team Lead** · *Al-Burraq Technologies (LLC)* · Feb 2022 – Present
+- Leading the architecture and development of Laravel applications
+- Designing scalable backend systems and RESTful APIs
+- Managing and mentoring the development team
+
+**Verified n8n Creator, AI & Workflow Automation** · *Freelance* · Aug 2025 – Present
+- Designing and publishing production-ready n8n workflow templates for businesses and developers
+- Creating tutorials and real-world use cases that make low-code automation practical
+
+**Full-Stack Systems Engineer** · *Global Odds Holdings* · Mar 2023 – Nov 2023
+- Implemented backend integrations with third-party systems, payment processors, and external APIs
+
+**Development Team Lead** · *TrueTalent.Online* · Oct 2022 – Mar 2023
+- Led a development team building scalable web platforms, overseeing backend APIs and frontend integration
+
+**Executive Engineer** · *Siemens Pakistan Engg. Co.* · Jan 2013 – Jun 2021
+- Delivered industrial automation projects across PLC programming and SCADA systems
+- Tested and commissioned HT/LT power systems with a focus on reliability and operational safety
 
 ---
 
-## 🔥 Key Projects  
+## 🔥 Featured Projects
 
-### **ItFits.app**  
-**[Live Demo](https://itfits.app/)** | *Tech Stack: Laravel, Rest Apis, Blade, MySQL, Bootstrap*  
-- App for Nutrition & Fitness Tracking. Achieve your goals with the ultimate app for food, fitness, and progress tracking. 
+| **Project** | **What it is** | **Stack** |
+|-------------|----------------|-----------|
+| [LaunchLancer](https://launchlancer.com) | A storefront builder for local merchants in Pakistan, with cash-on-delivery checkout, rupee pricing, and dozens of ready-made themes. | Laravel |
+| [Invitation Arts](https://invitationarts.com) | Digital wedding and event invitations for Pakistani celebrations, shared on WhatsApp with a one-time purchase and unlimited guests. | Laravel |
+| [Education Town Society Portal](https://education-town.vividsol.pk) | Maintenance billing and receipts for a housing society, with property and household records and a self-service portal for residents. | Laravel |
+| [AllCalls](https://allcalls.io) | Insurance lead generation software that combines AI-driven call routing, compliance monitoring, and acquisition optimization in one platform. | Laravel, Next.js |
+| [Kids Eat Free](https://kidseatfree.io) | A directory of restaurants offering kids' meal deals, searchable by state and city, with a companion mobile app. | — |
+| [IT FITS](https://itfits.app) | A nutrition and fitness tracking app for logging meals, workouts, and progress, with restaurant menus built in. | Laravel, Livewire |
 
-### **Neuro Force One**  
-**[Live Demo](https://nf1.app/)** | *Tech Stack: Laravel, Vue.js, MySQL, Bootstrap*  
-- NF1 app by NeuroForce1 adapts elite, data-driven sports methods to boost peak physical performance for everyone using advanced tech.  
-
-### **MMF-Finance**  
-**[Live Demo](https://mmf-finance.idfusion.com/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- Web app for event finance & claims management. It streamlines budgeting, expense tracking, and claims processing for transparent, accurate finances.  
-
-### **Telaeris (XP Track)**  
-**[Live Demo](https://telaeris.com/)** | *Tech Stack: Laravel, JWT Auth, Cron Jobs*  
-- Telaeris (XP Track) delivers handheld & hands-free safety & security solutions. XPressEntry integrates with any leading access control system.  
-
-### **Vividsol Hosting**  
-**[Live Demo](https://vividsol.com/)** | *Tech Stack: Core PHP, Cron Jobs, Bootstrap*  
-- Robust platform for hosting & domain reselling. Seamlessly manage registrations, hosting services & support with an intuitive reseller interface.  
-
-### **Grey House Hostel**  
-**[Live Demo](https://greyhouse.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- Robust hostel management web app for room allocation, fee tracking, maintenance requests & resident records, streamlining admin & user experience.
-
-### **Tax Calculator**  
-**[Live Demo](https://taxcalculator.pk/)** | *Tech Stack: Laravel, jQuery, MySQL*  
-- A Web application to calculate the real time Tax amounts based on the income and other Govt. tax types.  
+➡️ See the full list of SaaS products, client platforms, and business websites at **[omerfayyaz.com/projects](https://omerfayyaz.com/projects)**.
 
 ---
 
-## 🌐 Languages  
-- **English**: Professional Proficiency  
-- **Urdu**: Native  
+## ⚡ n8n Workflow Templates
+
+17 production-ready templates published on n8n.io, covering AI chatbots, support automation, scheduling, and content pipelines. A few highlights:
+
+- [Deploy AI-powered Website Chatbot with DeepSeek and Custom Branding](https://n8n.io/workflows/7416-deploy-ai-powered-website-chatbot-with-deepseek-and-custom-branding)
+- [AI Customer Support Chat for Web Hosting with Google Gemini and WHMCS](https://n8n.io/workflows/7631-ai-customer-support-chat-for-web-hosting-with-google-gemini-and-whmcs)
+- [Automate WHMCS Support Ticket Creation with Gemini AI Chatbot](https://n8n.io/workflows/7960-automate-whmcs-support-ticket-creation-with-gemini-ai-chatbot)
+- [Generate Single-Use Personalized Calendly Links with Google Sheets Tracking and Slack Alerts](https://n8n.io/workflows/11253-generate-single-use-personalized-calendly-links-with-google-sheets-tracking-and-slack-alerts)
+- [Generate AI-Powered News Summaries with GNews.io and GPT-4.1 to Slack](https://n8n.io/workflows/8660-generate-ai-powered-news-summaries-with-gnewsio-and-gpt-41-to-slack)
+- [Automated Workflow Backups with Google Drive and Slack Notifications](https://n8n.io/workflows/7850-automated-workflow-backups-with-google-drive-and-slack-notifications)
+
+➡️ Browse them all in the **[Workflow Library](https://omerfayyaz.com/workflow-library)** or on my **[n8n Creator Profile](https://n8n.io/creators/omerfayyaz/)**.
+
+---
+
+## 🎤 Speaking & Media
+
+- 🎙️ **Podcast guest:** [n8n: Simplifying AI Automation for Everyone](https://youtu.be/JTCN8dQmUHc)
+- 🗣️ **n8n Live Meetup Islamabad** (Sep 2025): *Agent as a Service (AaaS): The Future Beyond SaaS*
+- 🗣️ **n8n Live Meetup Lahore** (Aug 2025): *No-Code Automation & AI Integration in Practice*, at Pakistan's first n8n community meetup
+
+---
+
+## 🤝 Work With Me
+
+- **Architecture Audit:** a review of your web application and automation stack that pinpoints bottlenecks, failure points, and opportunities to scale
+- **Custom Development:** production web applications with Laravel, Vue.js, and React, plus the n8n and AI automation that connects them to your operations
+- **Ongoing Advisory:** continuing technical leadership on architecture, automation strategy, and scaling decisions
+
+📬 Start a conversation at **[omerfayyaz.com/work-with-me](https://omerfayyaz.com/work-with-me)** or on [LinkedIn](https://www.linkedin.com/in/omerfayyaz-engr/).
+
+---
+
+## 🌐 Languages
+
+- **English:** Professional proficiency
+- **Urdu:** Native
